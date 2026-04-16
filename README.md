@@ -1,6 +1,8 @@
 # TFSNet: EEG-based Emotion Recognition using Temporal and Frequency-Spatial Feature
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/abstract/document/11388788)
+[![Poster](https://img.shields.io/badge/Poster-PDF-red)]([poster](https://github.com/yrlee040212/TFSNet/blob/main/poster.pdf)
+[![Code](https://img.shields.io/badge/Framework-PyTorch-green)](#)
 
 This repository provides the official implementation of **TFSNet**, a multi-domain EEG emotion recognition model that integrates:
 
