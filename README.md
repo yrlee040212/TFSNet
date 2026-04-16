@@ -1,5 +1,7 @@
 # TFSNet: EEG-based Emotion Recognition using Temporal and Frequency-Spatial Feature
 
+[![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/abstract/document/11388788)
+
 This repository provides the official implementation of **TFSNet**, a multi-domain EEG emotion recognition model that integrates:
 
 - Temporal representation (S4D encoder)
@@ -42,9 +44,9 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
----
+```
 
-## Dataset
+### Requirements
 
 The code expects EEG data to be organized in a subject-wise 10-fold structure:
 
